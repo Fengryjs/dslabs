@@ -4,7 +4,9 @@
 
 华盛顿大学 UW CSE452 DSLabs Lab(4/4)
 
-Contact Me Github:Fengryjs QQ:1285751981
+康奈尔大学 CS 5414 DCP
+
+Contact Me Github:Fengryjs QQ:1285751981 Mail:1285751981@qq.com
 
 ![1](img/1.png)
 
