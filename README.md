@@ -1,10 +1,13 @@
 # GaTech-OMSCS-CS7210-Distribute-Computing
 
-佐治亚理工OMSCS- CS7210-Distribute Computing 分布式计算 Lab(4/4)
+GT OMSCS- CS7210-Distribute Computing 分布式计算 Lab(4/4)
 
-华盛顿大学 UW CSE452 DSLabs Lab(4/4)
+UW CSE452 DSLabs Lab(4/4)
 
-康奈尔大学 CS 5414 DCP
+Cornell CS 5414 DCP
+
+Purdue
+
 
 Contact Me Github:Fengryjs QQ:1285751981 Mail:1285751981@qq.com
 
